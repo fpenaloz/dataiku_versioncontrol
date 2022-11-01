@@ -230,7 +230,7 @@
     },
     "dkuProperties": []
   },
-  "name": "Haiku Starter for Fernando Penaloza Figueroa",
+  "name": "Test Version Control",
   "projectStatus": "Sandbox",
   "imgPattern": 8,
   "metrics": {
@@ -288,11 +288,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 138,
+    "versionNumber": 140,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1667329008162
+    "lastModifiedOn": 1667329068679
   },
   "creationTag": {
     "versionNumber": 0,
@@ -302,7 +302,7 @@
     "lastModifiedOn": 1498738782025
   },
   "description": "",
-  "shortDesc": "This project works with the data used in the [Basics 101-103 courses](https://academy.dataiku.com/page/core-concepts), and is a starting point for a number of learning materials.\n",
+  "shortDesc": "We\u0027ll test version control at the project level...",
   "tags": [
     "tutorial",
     "downloads",
