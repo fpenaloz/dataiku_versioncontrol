@@ -124,7 +124,20 @@
     "useRemoteGit": true,
     "disableAutomaticTriggers": false,
     "integrations": {
-      "integrations": []
+      "integrations": [
+        {
+          "active": true,
+          "hook": {
+            "type": "github",
+            "configuration": {
+              "useProxy": true,
+              "username": "fpenaloz",
+              "accessToken": "Presa@x1000",
+              "repository": "dataiku"
+            }
+          }
+        }
+      ]
     },
     "flowBuildSettings": {
       "mergeSparkPipelines": false,
@@ -289,11 +302,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 141,
+    "versionNumber": 142,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1667331221305
+    "lastModifiedOn": 1667331725318
   },
   "creationTag": {
     "versionNumber": 0,
