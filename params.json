@@ -132,7 +132,7 @@
             "configuration": {
               "useProxy": true,
               "username": "fpenaloz",
-              "accessToken": "Presa@x1000",
+              "accessToken": "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",
               "repository": "dataiku"
             }
           }
@@ -174,13 +174,11 @@
     "codeEnvs": {
       "python": {
         "mode": "INHERIT",
-        "preventOverride": false,
-        "envName": "Python36"
+        "preventOverride": false
       },
       "r": {
         "mode": "INHERIT",
-        "preventOverride": false,
-        "envName": "dku_haiku"
+        "preventOverride": false
       },
       "julia": {
         "mode": "INHERIT",
@@ -302,11 +300,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 142,
+    "versionNumber": 143,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1667331725318
+    "lastModifiedOn": 1667332565775
   },
   "creationTag": {
     "versionNumber": 0,
