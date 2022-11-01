@@ -133,7 +133,7 @@
               "useProxy": true,
               "username": "fpenaloz",
               "accessToken": "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",
-              "repository": "dataiku"
+              "repository": "dataiku_versioncontrol"
             }
           }
         }
@@ -299,11 +299,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 146,
+    "versionNumber": 147,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1667337800619
+    "lastModifiedOn": 1667338786998
   },
   "creationTag": {
     "versionNumber": 0,
