@@ -60,11 +60,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 13,
+    "versionNumber": 14,
     "lastModifiedBy": {
-      "login": "alex"
+      "login": "admin"
     },
-    "lastModifiedOn": 1501619081723
+    "lastModifiedOn": 1667513164546
   },
   "creationTag": {
     "versionNumber": 0,
@@ -77,7 +77,7 @@
     "creator:alex"
   ],
   "params": {
-    "connection": "filesystem_managed",
+    "connection": "filesystem_folders",
     "path": "/DKU_HAIKU_STARTER.Orders_filtered",
     "notReadyIfEmpty": false,
     "filesSelectionRules": {
@@ -114,7 +114,7 @@
       {"name":"ip_address_geopoint","type":"string"},
       {"name":"campaign","type":"boolean"}
     ],
-    "userModified": false
+    "userModified": true
   },
   "dkuProperties": [],
   "metrics": {
